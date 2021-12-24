@@ -1,4 +1,3 @@
-/*hacker font for .css files that include style.css*/
 @font-face {
     font-family: hacker; 
     src: url('./RandyGGRegular.ttf');
@@ -11,8 +10,6 @@ body {
     height: 890px;
     width: 100%;
     padding: 0px;
-    left: 0;
-    right: 0;
 }
 
 footer {

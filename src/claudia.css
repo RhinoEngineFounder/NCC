@@ -1,0 +1,18 @@
+body {
+    background-color: lightred;
+    height: 890px;
+    width: 100%;
+    padding: 0px;
+}
+
+h1 {
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   text-align: center;
+   magin: auto;
+   width: 30%;
+   border: 3px solid green;
+   border-radius: 25px;
+   padding: 20px;
+   color: whitesmoke;
+   user-select: none;
+}
