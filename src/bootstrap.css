@@ -6,10 +6,9 @@
 
 /*Background color and fitting color*/
 body {
-    background-color: rgb(10, 66, 88);
+    color: rgb(10, 66, 88);
     height: 890px;
     width: 100%;
-    padding: 0px;
 }
 
 footer {
